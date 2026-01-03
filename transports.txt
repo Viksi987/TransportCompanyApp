@@ -1,0 +1,2 @@
+Transport{id=1, Sofia -> Plovdiv, price=1500.0, paid=true}
+Transport{id=2, sofia -> burgas, price=1000.0, paid=true}
